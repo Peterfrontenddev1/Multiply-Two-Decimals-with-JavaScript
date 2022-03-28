@@ -1,3 +1,3 @@
 # Multiply-Two-Decimals-with-JavaScript
 
-In JavaScript, you can also perform calculations with decimal numbers, just like whole numbers.
+In JavaScript, y
