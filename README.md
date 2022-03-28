@@ -6,3 +6,4 @@ Let's multiply two decimals together to get their product.
 
                                           QUESTION
 
+                                          Change the 0.0 so that product will equal 5.0.
