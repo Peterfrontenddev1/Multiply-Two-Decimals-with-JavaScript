@@ -12,3 +12,4 @@ Let's multiply two decimals together to get their product.
 
                                           ANSWER
                                           
+                                          const product = 5.0 * 0.0;
