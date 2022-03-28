@@ -11,7 +11,6 @@ Let's multiply two decimals together to get their product.
                                           You should use the * operator
                                           const product = 2.0 * 0.0;
 
-
                                           ANSWER
-                                          
+                                         
                                           const product = 5.0 * 0.0;
